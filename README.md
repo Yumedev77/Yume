@@ -1,5 +1,3 @@
-CA:4Peq1wwbXFran7WsBhEgkBC4BCcoq1VXeE4XsvRxpump
-
 # YUMEOS 🐦
 
 A powerful, modern Julia client for the Twitter API v2 with AI integration.
