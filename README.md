@@ -16,7 +16,7 @@ A powerful, modern Julia client for the Twitter API v2 with AI integration.
 - 📱 Spaces and live audio support
 - 🤖 AI-powered tweet generation using OpenAI
 - 
-- 
+
 
 
 
